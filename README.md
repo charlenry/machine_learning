@@ -28,5 +28,4 @@ Les sujets abordés dans ce notebook sont les suivants:
 J'ai acquis une solide compréhension des concepts fondamentaux du Machine Learning, incluant les statistiques descriptives, la modélisation (régressions linéaire, polynomiale et logistique), ainsi que des techniques avancées comme les arbres de décision, le K-means, le KNN et la validation croisée. Je maîtrise également des outils essentiels tels que les matrices de confusion, les courbes ROC-AUC, et les techniques de prétraitement et de mise à l'échelle des données. Ces compétences me permettent de développer, évaluer et optimiser des modèles prédictifs dans divers contextes.
 
 ## Contact
-Si vous êtes recruteur et que vous êtes intéressé par mon profil, vous pouvez m'appeler au 0652@74@87@30. <br>
-[Mon LinkedIn](https://www.linkedin.com/in/charles-henri-saint-mars)
+[LinkedIn de Charles-Henri SAINT-MARS](https://www.linkedin.com/in/charles-henri-saint-mars)
