@@ -1,6 +1,6 @@
 # Mon notebook sur les fondamentaux du Machine Learning
 ## Introduction
-Je m'appelle **Charles-Henri SAINT-MARS** et je suis actuellement en **recherche** d'une **entreprise d'accueil** afin d'effectuer une formation d'**Ingénieur en Machine Learning** en alternance et bien entendu de faire profiter de mes connaissances et compétences à cette entreprise d'accueil. Entre-temps, je suis des MOOCs afin de progresser dans ce domaine et d'être mieux préparé pour les missions qui me seront confiées. Le notebook de ce dépôt constitue mes notes de cours sur le Machine Learning. 
+Je m'appelle **Charles-Henri SAINT-MARS** et je m'intéresse à l'IA, à la Data Science et au Machine Learning. Les notebooks de ce dépôt sont mes notes de travaux pratiques sur les fondamentaux du Machine Learning.
 
 ## Les sujet abordés
 Les sujets abordés dans ce notebook sont les suivants:
